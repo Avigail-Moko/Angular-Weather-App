@@ -2,6 +2,8 @@
 
 This is a simple Angular project that displays the current weather and a 5-day forecast for a specified city using the OpenWeatherMap API.
 
+![image](https://github.com/user-attachments/assets/cf78882c-a530-493a-938d-8deb1d27477f)
+
 ## Installation and Running the Application
 
 1. **Clone or Download the Repository:**
